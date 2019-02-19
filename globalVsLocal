@@ -63,3 +63,4 @@ int main()
     printf("%d ", fun()); 
 
     return 0;
+}
